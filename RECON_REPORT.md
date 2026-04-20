@@ -16,14 +16,14 @@ Repo at `C:\httpie-assade-demo` contains 265 files (135 source, 107 test-related
 
 **By extension:**
 
-  - `.py`: 133
-  - `.json`: 26
-  - `.md`: 24
-  - `.xml`: 24
-  - `.yml`: 17
-  - `[no_ext]`: 8
-  - `.sh`: 3
-  - `.1`: 3
+- `.py`: 133
+- `.json`: 26
+- `.md`: 24
+- `.xml`: 24
+- `.yml`: 17
+- `[no_ext]`: 8
+- `.sh`: 3
+- `.1`: 3
 
 ## Dependencies
 
@@ -42,9 +42,9 @@ Repo at `C:\httpie-assade-demo` contains 265 files (135 source, 107 test-related
 
 **Violations:**
 
-  - httpie/cli/definition.py (at, 29KB — may span tiers)
-  - tests/test_output.py (at, 20KB — may span tiers)
-  - tests/test_sessions.py (at, 27KB — may span tiers)
+- httpie/cli/definition.py (at, 29KB — may span tiers)
+- tests/test_output.py (at, 20KB — may span tiers)
+- tests/test_sessions.py (at, 27KB — may span tiers)
 
 ## Tests
 
@@ -56,14 +56,14 @@ Repo at `C:\httpie-assade-demo` contains 265 files (135 source, 107 test-related
 
 **Untested (sample):**
 
-  - `setup.py`
-  - `docs/contributors/fetch.py`
-  - `docs/contributors/generate.py`
-  - `docs/installation/generate.py`
-  - `extras/packaging/linux/build.py`
-  - `extras/packaging/linux/scripts/http_cli.py`
-  - `extras/packaging/linux/scripts/hooks/hook-pip.py`
-  - `extras/profiling/benchmarks.py`
+- `setup.py`
+- `docs/contributors/fetch.py`
+- `docs/contributors/generate.py`
+- `docs/installation/generate.py`
+- `extras/packaging/linux/build.py`
+- `extras/packaging/linux/scripts/http_cli.py`
+- `extras/packaging/linux/scripts/hooks/hook-pip.py`
+- `extras/profiling/benchmarks.py`
 
 ## Documentation
 
@@ -74,16 +74,16 @@ Repo at `C:\httpie-assade-demo` contains 265 files (135 source, 107 test-related
 
 **Missing docstrings (sample):**
 
-  - `docs/contributors/fetch.py:main`
-  - `docs/contributors/fetch.py:find_committers`
-  - `docs/contributors/fetch.py:find_reporters`
-  - `docs/contributors/fetch.py:release_date`
-  - `docs/contributors/fetch.py:load_awesome_people`
-  - `docs/contributors/fetch.py:fetch`
-  - `docs/contributors/fetch.py:new_person`
-  - `docs/contributors/fetch.py:user`
-  - `docs/contributors/fetch.py:fetch_missing_users_details`
-  - `docs/contributors/fetch.py:save_awesome_people`
+- `docs/contributors/fetch.py:main`
+- `docs/contributors/fetch.py:find_committers`
+- `docs/contributors/fetch.py:find_reporters`
+- `docs/contributors/fetch.py:release_date`
+- `docs/contributors/fetch.py:load_awesome_people`
+- `docs/contributors/fetch.py:fetch`
+- `docs/contributors/fetch.py:new_person`
+- `docs/contributors/fetch.py:user`
+- `docs/contributors/fetch.py:fetch_missing_users_details`
+- `docs/contributors/fetch.py:save_awesome_people`
 
 ## Recommendations
 
