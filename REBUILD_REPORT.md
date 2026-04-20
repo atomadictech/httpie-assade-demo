@@ -51,6 +51,7 @@
 - **SHA-256**: `33585e1fd45121ac34cdbd081b4479a55d4fa58ef5e219b144a85ee77725952b`
 
 Verify:
+
 ```bash
 python -c "import json,hashlib; c=json.load(open('CERTIFICATE.json')); h=c.pop('certificate_sha256'); b=json.dumps(c,sort_keys=True).encode(); print('VERIFIED' if hashlib.sha256(b).hexdigest()==h else 'TAMPERED')"
 ```

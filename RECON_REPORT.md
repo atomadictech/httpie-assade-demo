@@ -15,6 +15,7 @@ Repo at `C:\httpie-assade-demo` contains 265 files (135 source, 107 test-related
 - Top-level: .editorconfig, .github, .gitignore, .packit.yaml, AUTHORS.md, CHANGELOG.md, CODE_OF_CONDUCT.md, CONTRIBUTING.md, LICENSE, MANIFEST.in
 
 **By extension:**
+
   - `.py`: 133
   - `.json`: 26
   - `.md`: 24
@@ -40,6 +41,7 @@ Repo at `C:\httpie-assade-demo` contains 265 files (135 source, 107 test-related
 - `sy`: 18 — e.g. docs/contributors/fetch.py, docs/contributors/generate.py
 
 **Violations:**
+
   - httpie/cli/definition.py (at, 29KB — may span tiers)
   - tests/test_output.py (at, 20KB — may span tiers)
   - tests/test_sessions.py (at, 27KB — may span tiers)
@@ -53,6 +55,7 @@ Repo at `C:\httpie-assade-demo` contains 265 files (135 source, 107 test-related
 - Untested modules: 66
 
 **Untested (sample):**
+
   - `setup.py`
   - `docs/contributors/fetch.py`
   - `docs/contributors/generate.py`
@@ -70,6 +73,7 @@ Repo at `C:\httpie-assade-demo` contains 265 files (135 source, 107 test-related
 - Documented: 189 (17%)
 
 **Missing docstrings (sample):**
+
   - `docs/contributors/fetch.py:main`
   - `docs/contributors/fetch.py:find_committers`
   - `docs/contributors/fetch.py:find_reporters`
